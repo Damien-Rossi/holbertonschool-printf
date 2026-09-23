@@ -1,5 +1,4 @@
 
-<img width="1408" height="768" alt="Gemini_Generated_Image_amstviamstviamst" src="https://github.com/user-attachments/assets/6ada5d0d-c3b4-451e-a8f1-6448803bc121" />
 
 # _printf
 
